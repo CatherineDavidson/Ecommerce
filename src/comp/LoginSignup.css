@@ -1,0 +1,115 @@
+.login-container{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 45px;
+    
+  }
+  .login-container {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .welcome-section {
+   height: 450px;
+   width: 65%;
+    background-color: #f7941d;
+    color: white;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .welcome-section h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .welcome-section p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+  }
+  
+  .login-section {
+    height: 450px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
+    background-color: white;
+    border: 2px solid#ccc;
+  }
+  
+  .form-section h2 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: rgb(78, 76, 76);
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+  }
+  
+  
+  
+  
+  button {
+    width: 100%;
+    padding: 12px;
+    background-color: #f7941d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1em;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #e58300;
+  }
+  
+  .error {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  .success {
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+  .switch-form {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .switch-form span {
+    color: #f7941d;
+    cursor: pointer;
+  }
+  
+  .switch-form span:hover {
+    text-decoration: underline;
+  }
+  
+  

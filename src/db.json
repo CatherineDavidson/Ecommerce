@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "2e33",
+      "username": "catherine",
+      "password": "Joel$2608"
+    },
+    {
+      "id": "bc0f",
+      "username": "dharshini",
+      "password": "Cathy@07"
+    },
+    {
+      "id": "877d",
+      "username": "cat",
+      "password": "Asdf@123"
+    },
+    {
+      "id": "ecd1",
+      "username": "joel",
+      "password": "Cathy@2005"
+    },
+    {
+      "id": "44f5",
+      "username": "Dharani",
+      "password": "Dharani$05"
+    },
+    {
+      "id": "6a1d",
+      "username": "Dhivya",
+      "password": "RathanSuji.7@"
+    }
+  ]
+}

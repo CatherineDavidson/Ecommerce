@@ -141,7 +141,7 @@
 .home .trending .container .left_box .products .container .box
 {
     width: 195px;
-    height: 295px;
+    height: 345px;
     /* padding: 10px 10px; */
     border: 4px solid #f6f7f8;
     margin-top: 20px;
@@ -429,7 +429,7 @@
 .home .product_type .container .box
 {
     width: 360px;
-    height: 490px;
+    height: 550px;
     border: 3px solid #f6f7f8;
     overflow: hidden;
 }
@@ -450,7 +450,7 @@
 .home .product_type .container .box .productbox
 {
     width: 100%;
-    height: 110px;
+    height: 170px;
     padding: 10px 10px;
     border: 1px solid #f6f7f8;
     display: flex;
@@ -458,7 +458,7 @@
 .home .product_type .container .box .productbox .img-box img
 {
     width: 100px;
-    height: 100px;
+    height: 150px;
     object-fit: cover;
 }
 .home .product_type .container .box .productbox .detail
